@@ -28,7 +28,7 @@ const k_muppet = {
 // Strings
 
 // 1. Use destructuring to assign appropriate variables based on the sounds animals make.
-const farmAnimals = 'cow horse sheep pig chicken'
+//const farmAnimals = 'cow horse sheep pig chicken'
 const farmSounds = ['moo', 'neigh', 'baa', 'oink', 'cluck']
 const [moo, neigh, baa, oink, cluck] = farmSounds
 
