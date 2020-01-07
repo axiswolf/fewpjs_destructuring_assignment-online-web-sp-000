@@ -28,12 +28,12 @@ const k_muppet = {
 // Strings
 
 // 1. Use destructuring to assign appropriate variables based on the sounds animals make.
-const sound = {
-  cow: 'moo',
-  horse: 'bbbrrr',
-  sheep: 'baa',
-  pig: 'oink',
-  chicken: 'ba-kaw'
+const animals = {
+  cow: {sound:'moo'},
+  horse: {sound:'bbbrrr'},
+  sheep: {sound: 'baa'},
+  pig: {sound:'oink'},
+  chicken: {sound:'ba-kaw'}
 };
 // 2. Bolt the horse wandered off, so just give us four animals, and let's name them Bessie, Dolly, Babe, and Little.
 
