@@ -47,7 +47,8 @@ const [r, o, y, g, b, indg, v] = colors
 // Objects
 
 // 7. Use destructuring to assign all appropriate variables using the keys as the variable names
-const name = k_muppet.k_name
-const color = k_muppet.k_color
+const name = muppet.name
+const color = muppet.color
+const song = muppet.song
 
 // 8. Use destructuring to assign songs 2 and 4, and Kermit's job and partner
